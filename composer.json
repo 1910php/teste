@@ -1,0 +1,15 @@
+{
+    "name": "root/teste",
+    "autoload": {
+        "psr-4": {
+            "Root\\Teste\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Cassiano",
+            "email": "cassianorodrigues032@gmail.com"
+        }
+    ],
+    "require": {}
+}

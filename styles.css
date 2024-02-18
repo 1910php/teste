@@ -1,0 +1,143 @@
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto; 
+    padding: 0 20px;
+    margin-top: 5rem;
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+.card-title {
+    margin-bottom: 15px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.table {
+    width: 100%;
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+.table th,
+.table td {
+    padding: 8px;
+    border: 1px solid #ddd;
+}
+
+.table th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+    text-align: left;
+}
+
+.table tbody tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+.table tbody tr:hover {
+    background-color: #f2f2f2;
+}
+
+
+.btn {
+    cursor: pointer;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.btn-danger {
+    background-color: #dc3545;
+    border-color: #dc3545;
+}
+
+.btn-primary:hover,
+.btn-danger:hover {
+    opacity: 0.8;
+}
+.telefone {
+    margin-top: 9px;
+}
+.botaoplus{
+    margin-top: 2.5rem;
+}
+
+.campo-formulario{
+    background-color: #f2f2f2;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 34px;
+}
+.bg-light{
+    padding-left: 4%;
+}
+
+
+.link-create{
+    padding: 7px 15px;
+    margin-top: -45px;
+    display: inline-block;
+    background-color: #10c6f9;
+    position: absolute;
+    border-radius: 8px;
+    font-weight: 600;
+    color: #fff;
+    box-shadow: 1px 1px 5px 1px #ccc;
+    cursor: pointer;
+}
+
+a {  
+    text-decoration: unset;
+}
+
+.text-craete{
+    color: #fff;
+}
+#email-mensagem{
+    color: rgb(255 255 255 / 0%);
+}
+.btn-update{
+    background-color: #2e59ed;
+    padding: 4px;
+    margin-top: 4px;
+    display: inline-block;
+    border-radius: 3px;
+}
+.btn-delete{
+    background-color: #ef0c0c;
+    padding: 4px;
+    margin-top: 4px;
+    display: inline-block;
+    border-radius: 3px;
+    cursor: pointer;
+}
+.text-full{
+    color: #fff;
+    font-size: medium;
+    font-weight: 600;
+}
+.table-btn{
+    text-align: center;
+}
+.pagination{
+    text-align: center;
+    display: block!important ;
+}
+.pagina{
+    background-color: #ccc;
+    padding: 10px;
+    border-radius: 5px;
+    margin-right: 3px;
+}
